@@ -1,5 +1,6 @@
 frontend/node_modules
 backend/node_modules
-
+frontend/.env.production
+index.js
 backend/.env
 /.DS_store
